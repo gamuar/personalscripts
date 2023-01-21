@@ -1,1 +1,4 @@
-loadstring(game:HttpGet('')()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/gamuar/personalscripts/main/vape')()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/gamuar/personalscripts/main/antiafk')()
+--loadstring(game:HttpGet('')()
+--loadstring(game:HttpGet('')()
